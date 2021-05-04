@@ -12,6 +12,7 @@ from .debug_resources import debugar
 pathfile_consulta = 'D:\\02.NOVOBOT\\R_CONSULTA_IMOB\\File\\Base_Consulta.csv'
 #----------------------------------------------------------------------------------------
 print('R_CONSULTA_IMOB\nDesenvolvido por Analytics/Logística (c) Copyright\n')
+print('R_CONSULTA_IMOB\nDesenvolvido (c) Copyright\n')
 
 class web_tools:
 	
